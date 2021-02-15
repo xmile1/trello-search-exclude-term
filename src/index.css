@@ -1,0 +1,20 @@
+.trello-search-exclude-term_excludeLabel {
+  position: absolute;
+  top: 4px;
+  right: 43px;
+  background: #ebecef;
+  padding: 0 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.trello-search-exclude-term_excludeLabel:hover {
+  background: #e2e4e9
+}
+
+.trello-search-exclude-term_hide {
+  display: none!important;
+}
